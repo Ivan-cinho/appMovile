@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">una app</string>
+    <string name="string1">TEXTO 1</string>
+    <string name="string2">TEXTO 2</string>
+    <string name="boton">COMPARAR</string>
+    <string name="resultado">RESULTADO</string>
+</resources>
